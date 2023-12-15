@@ -1,0 +1,52 @@
+    1  cd
+    2  ls
+    3  cd Download
+    4  cd C: 
+    5  ls
+    6  cd Download
+    7  cd Users
+    8  ls
+    9  cd Samuel/
+   10  ls
+   11  cd Downloads/
+   12  ls
+   13  cd ejemplo-git/
+   14  cls
+   15  clear
+   16  git status
+   17  git status
+   18  git add .
+   19  git status
+   20  clear
+   21  git statusç
+   22  git status
+   23  ls
+   24  git init adios.txt
+   25  git add .
+   26  git commit 
+   27  git add adios.txt
+   28  git commit
+   29  cls
+   30  clear
+   31  git commit -m "añado adios.txt"
+   32  git add .
+   33  clear
+   34  history
+   35  clear history
+   36  clear
+   37  history
+   38  git status
+   39  ls
+   40  cd 
+   41  cd Downloads/ejemplo-git
+   42  clear
+   43  ls
+   44  git status
+   45  git add . && git commit -m  "añado historial.txt"
+   46  git add adios.txt && git commit -m "añado adios.txt"
+   47  git add adios.txt && git commit -m "añado adios.txt"
+   48  ls
+   49  clear
+   50  ls
+   51  history
+   52  history >> historial.txt
